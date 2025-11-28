@@ -56,3 +56,7 @@
 | Нативная реализация |         4.2785 с.        |
 
 Scikit быстрее нативной реализации в 282.1 раз
+
+## Источники
+1. https://scikit-image.org/docs/stable/api/skimage.filters.html#skimage.filters.sobel
+2. https://ru.wikipedia.org/wiki/Оператор_Собеля
